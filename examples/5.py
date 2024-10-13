@@ -1,3 +1,4 @@
+#Рассмотрим пример генератора
 def my_generate(start=0, stop=5, step=1):
 number = start
 while number <= stop:
