@@ -1,3 +1,4 @@
+#вызов функции
 def example():
 return True
 example = example()
