@@ -1,3 +1,4 @@
+#Рассмотрим пример функции с одним аргументом
 def example(color):
 if color == "green":
 return "This is tree"
