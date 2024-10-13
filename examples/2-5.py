@@ -1,3 +1,5 @@
+#Рассмотрим пример получения/разбиения аргументов – ключевых
+слов с помощью символа *
 def example_args(*args):
 print('Positional argument tuple:', args)
 example_args()
