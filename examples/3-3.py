@@ -1,3 +1,4 @@
+#Рассмотри пример с использованием замыкания:
 def outer2(out_param):
 def inner2():
 return f'Outer def have value: {out_param}'
