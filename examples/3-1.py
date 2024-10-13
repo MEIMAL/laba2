@@ -1,3 +1,4 @@
+#Пример внутренней функции
 def outer(out_param1, out_param2):
 def inner(in_param1, in_param2):
 return in_param1 + in_param2
